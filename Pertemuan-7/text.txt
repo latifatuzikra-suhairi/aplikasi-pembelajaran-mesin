@@ -1,0 +1,4 @@
+Pertemuan 7 mengenai Artificial Neural Network, dengan pembagian:
+1. Latifatuzikra Suhairi - Multiple Layer Perceptron
+2. Kintan Puti Alami - Single Layer Perceptron
+3. Fathania Zulfani - Recurrent Neural Network
